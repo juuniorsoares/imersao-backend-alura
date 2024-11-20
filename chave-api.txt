@@ -1,0 +1,4 @@
+AIzaSyDaD8iCYvFGR5J1hEOgAaAywcO-mv2R-_c
+juniorsoares - jtXi9QDKVmAeVXs4
+
+mongodb+srv://juniorsoares:jtXi9QDKVmAeVXs4@cluster0.gybl8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
