@@ -1,5 +1,6 @@
 import express from "express";
 
+
 const posts = [
     {
         id: 1,
